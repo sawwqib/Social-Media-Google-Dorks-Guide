@@ -525,3 +525,6 @@ Search-engine syntax and behavior change over time. Some queries may return no r
 <p align="center">
   Made With ❤️ By <a href="https://sawwqib.rf.gd">Saqib.</a>
 </p>
+
+## Visits
+![Visits](https://count.getloli.com/@Social%20Media%20%26%20Google%20Dorks%20Guid?theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
